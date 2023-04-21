@@ -39,7 +39,9 @@ namespace practica9
 
 
             }
+            Console.WriteLine("ya salio el programa ");
             Console.ReadLine();
+            
         }
     }
 }
